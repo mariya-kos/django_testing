@@ -26,7 +26,7 @@ SECRET_KEY = 'ns6p0sfsi@wif$yr($030grzdr=v!c*$dv=04y_3yo=za771b#'
 DEBUG = True
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1', 'mariya.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mariyakos.pythonanywhere.com']
 
 
 # Application definition
